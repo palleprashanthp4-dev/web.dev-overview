@@ -1,6 +1,6 @@
 # Hi there, I'm Prashanth! 👋
 <p align="center">
-  <img src="https://assets-global.website-files.com/623235b642131976008b8b51/62b467657d4722b9aa29804e_MERN-Stack.png" alt="MERN Stack Banner" width="100%" style="border-radius: 8px;" />
+  <img src="https://www.google.com/imgres?q=mern%20stack%20developer%20banner%20for%20linkedin&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FC4D1BAQHK_XcVi1f4MQ%2Fcompany-background_10000%2Fcompany-background_10000%2F0%2F1607639631297%2Fmernstack_cover%3Fe%3D2147483647%26v%3Dbeta%26t%3D-457AvBNGV35uGBE4lMo4WKmuOujnJS8hdimTJP6HiM&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fmernstack&docid=cZyQFUtJCkShhM&tbnid=GA27kjhLV7LNZM&vet=12ahUKEwj21dbw9PeUAxWRumMGHWRxJLkQnPAOegQIFxAB..i&w=1901&h=500&hcb=2&ved=2ahUKEwj21dbw9PeUAxWRumMGHWRxJLkQnPAOegQIFxAB" alt="MERN Stack Banner" width="100%" style="border-radius: 8px;" />
 </p>
 
 <p align="center">
